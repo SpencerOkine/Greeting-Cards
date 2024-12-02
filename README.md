@@ -15,6 +15,8 @@ The following technologies and tools were used in this project:
 
 ## Final Output Screenshot
 Below is a screenshot of the final output displaying the header and the three greeting cards:
+![image](https://github.com/user-attachments/assets/b8029648-2c58-4a0c-b0b5-39661f150200)
+
 
 
 
